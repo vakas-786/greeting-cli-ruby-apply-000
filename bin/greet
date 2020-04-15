@@ -4,4 +4,3 @@ puts "Hi! I'm HAL, what's your name?"
 # code your CLI here!
 name = gets.strip
 greeting = name
-
